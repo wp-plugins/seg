@@ -1,0 +1,22 @@
+/* CSS Document */
+
+.seg-setup-block {
+	border: 1px solid #999999;
+	background-color: #e5e5e5;
+	margin-right: 20px;
+}
+
+.seg-setup-header {
+	padding: 25px 20px;
+	margin: 0;
+	border-bottom: 1px solid #999999;
+}
+
+.seg-setup-content {
+	padding: 10px 20px;
+	background-color: #fff;
+}
+
+#TB_window img#TB_Image {
+	border-width: 0;
+}

@@ -1,10 +1,10 @@
-=== Seg ===
+=== Seg for MailChimp and WooCommerce ===
 Contributors: Seg, KoanLeeroy
 Donate link: http://www.getseg.com/
-Tags: mailchimp, insight, ecommerce, email, woocommerce
+Tags: mailchimp, insight, ecommerce, email, woocommerce, segmentation
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,6 +84,9 @@ When you connect yor MailChmip account and install this plugin, Seg extracts all
 4. Simple publishing into a MailChimp campaign
 
 == Changelog ==
+
+= 1.0.1 =
+* Included assets.
 
 = 1.0 =
 * Initial version.
